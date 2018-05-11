@@ -9,6 +9,6 @@
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
 
-export const POST_STRING = 'boilerplate/homePage/POST_STRINGT';
+export const POST_STRING = 'boilerplate/homePage/POST_STRING';
 export const CHANGE_STRING = 'boilerplate/homePage/CHANGE_STRING';
 export const POST_ERROR = 'boilerplate/homePage/POST_ERROR';
